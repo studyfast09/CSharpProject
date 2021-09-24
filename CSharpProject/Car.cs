@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace CSharpProject
 {
-    class Program
+    class Car : Maruti
     {
+        void CarName()
+        {
+            Console.WriteLine($"This car name Maruti");
+        }
     }
 }

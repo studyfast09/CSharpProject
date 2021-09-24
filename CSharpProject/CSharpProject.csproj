@@ -43,8 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Car.cs" />
+    <Compile Include="Maruti.cs" />
+    <Compile Include="Polymorphism.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="programming\Car.cs" />
+    <Compile Include="programming\Student.cs" />
+    <Compile Include="programming\StudentAddress.cs" />
+    <Compile Include="Teacher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
